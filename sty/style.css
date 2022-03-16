@@ -1,0 +1,116 @@
+* {
+  box-sizing: border-box;
+}
+
+    legend {
+      font-family:monospace;
+      color:#BB9BB0;
+
+    }
+
+    .all {
+      background-color: #1C1D21
+
+    }
+
+
+    .header {
+      font-family:monospace;
+      color:#BB9BB0;
+      background-color: #1C1D21;
+
+      }
+
+      h3 {
+        font-family:monospace;
+        color:#BB9BB0;
+        background-color: #1C1D21;
+
+        }
+
+      .subheader {
+        font-family:monospace;
+        color:#CCBCBC;
+        background-color: #1C1D21;
+
+        }
+
+      p {
+        font-family:monospace;
+        color:#F1E3E4;
+        background-color: #1C1D21;
+
+          }
+
+      .mainmain {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 15px;
+        background-color: #1C1D21;
+
+      }
+
+      .exacar {
+        width:80%;
+        float:right;
+        padding:15px;
+        background-color: #1C1D21;
+
+      }
+
+      .navmain {
+        width: 20%;
+        float: left;
+        padding: 15px;
+        background-color: #1C1D21;
+
+      }
+
+      .nan {
+        width: 20%;
+        float: right;
+        padding: 15px;
+        background-color: #1C1D21;
+
+      }
+
+      .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+      background-color: #1C1D21;
+
+    }
+
+    a:link {
+      color: #865B77;
+      cursor: auto;
+      text-decoration: none;
+
+    }
+
+    a:hover {
+      color: #865B77;
+      cursor: auto;
+      text-decoration: underline;
+
+    }
+
+    a:link:active {
+      color: #CCBCBC;
+      text-decoration: underline;
+
+
+    }
+
+    a:visited {
+      color: #CCBCBC;
+      text-decoration: underline;
+
+    }
+
+    li {
+      color:#F1E3E4;
+      background-color: #1C1D21;
